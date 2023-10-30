@@ -1,0 +1,547 @@
+{
+  "pagesCount": 5,
+  "films": [
+    {
+      "filmId": 1129900,
+      "nameRu": "Тихое место 2",
+      "nameEn": "A Quiet Place Part II",
+      "year": "2021",
+      "filmLength": "1:37",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": "7.0",
+      "ratingVoteCount": 29833,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1129900.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1129900.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 968501,
+      "nameRu": "Ледяной драйв",
+      "nameEn": "The Ice Road",
+      "year": "2021",
+      "filmLength": "1:48",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": "6.2",
+      "ratingVoteCount": 2241,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/968501.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/968501.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 804662,
+      "nameRu": "Круэлла",
+      "nameEn": "Cruella",
+      "year": "2021",
+      "filmLength": "2:14",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": "7.3",
+      "ratingVoteCount": 57450,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/804662.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/804662.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1395801,
+      "nameRu": "Лука",
+      "nameEn": "Luca",
+      "year": "2021",
+      "filmLength": "1:35",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "7.6",
+      "ratingVoteCount": 9565,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1395801.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1395801.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1305913,
+      "nameRu": "Бендер: Начало",
+      "nameEn": null,
+      "year": "2021",
+      "filmLength": "1:32",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "rating": "5.5",
+      "ratingVoteCount": 1251,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1305913.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1305913.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1203039,
+      "nameRu": "Локи (сериал)",
+      "nameEn": "Loki",
+      "year": "2021-...",
+      "filmLength": null,
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": "8.2",
+      "ratingVoteCount": 11461,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1203039.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1203039.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1405843,
+      "nameRu": "Пищеблок (сериал)",
+      "nameEn": null,
+      "year": "2021-...",
+      "filmLength": "0:50",
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "rating": "7.7",
+      "ratingVoteCount": 146790,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1405843.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1405843.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1318972,
+      "nameRu": "Гнев человеческий",
+      "nameEn": "Wrath of Man",
+      "year": "2021",
+      "filmLength": "1:59",
+      "countries": [
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": "7.6",
+      "ratingVoteCount": 290041,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1318972.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1318972.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 775273,
+      "nameRu": "Душа",
+      "nameEn": "Soul",
+      "year": "2020",
+      "filmLength": "1:46",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "8.3",
+      "ratingVoteCount": 183304,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/775273.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/775273.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 823956,
+      "nameRu": "Чёрная Вдова",
+      "nameEn": "Black Widow",
+      "year": "2021",
+      "filmLength": "2:13",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "rating": "90%",
+      "ratingVoteCount": 54446,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/823956.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/823956.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1125418,
+      "nameRu": "Телохранитель жены киллера",
+      "nameEn": "Hitman's Wife's Bodyguard",
+      "year": "2021",
+      "filmLength": "1:40",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "6.2",
+      "ratingVoteCount": 8541,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1125418.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1125418.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1263408,
+      "nameRu": "Судная ночь навсегда",
+      "nameEn": "The Forever Purge",
+      "year": "2020",
+      "filmLength": "1:43",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": "94%",
+      "ratingVoteCount": 3346,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1263408.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1263408.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1044906,
+      "nameRu": "Тихое место",
+      "nameEn": "A Quiet Place",
+      "year": "2018",
+      "filmLength": "1:30",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": "6.8",
+      "ratingVoteCount": 214195,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1044906.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1044906.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1114968,
+      "nameRu": "Множественные святые Ньюарка",
+      "nameEn": "The Many Saints of Newark",
+      "year": "2021",
+      "filmLength": null,
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": "99%",
+      "ratingVoteCount": 4177,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1114968.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1114968.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1069385,
+      "nameRu": "Кошмары",
+      "nameEn": "Come True",
+      "year": "2020",
+      "filmLength": "1:45",
+      "countries": [
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": "6.1",
+      "ratingVoteCount": 1496,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1069385.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1069385.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 685246,
+      "nameRu": "Рик и Морти (сериал)",
+      "nameEn": "Rick and Morty",
+      "year": "2013-2013",
+      "filmLength": "0:23",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "rating": "8.9",
+      "ratingVoteCount": 429690,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/685246.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/685246.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1046638,
+      "nameRu": "Заклятие 3: По воле дьявола",
+      "nameEn": "The Conjuring: The Devil Made Me Do It",
+      "year": "2021",
+      "filmLength": "1:52",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        },
+        {
+          "genre": "детектив"
+        }
+      ],
+      "rating": "6.2",
+      "ratingVoteCount": 14854,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1046638.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1046638.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1262095,
+      "nameRu": "Красотка на взводе",
+      "nameEn": "Jolt",
+      "year": "2021",
+      "filmLength": null,
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "95%",
+      "ratingVoteCount": 759,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1262095.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1262095.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 1347589,
+      "nameRu": "Оборотни внутри",
+      "nameEn": "Werewolves Within",
+      "year": "2021",
+      "filmLength": "1:37",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": "99%",
+      "ratingVoteCount": 970,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1347589.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1347589.jpg",
+      "ratingChange": null
+    },
+    {
+      "filmId": 964318,
+      "nameRu": "Форсаж 9",
+      "nameEn": "F9",
+      "year": "2021",
+      "filmLength": "2:25",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Таиланд"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "криминал"
+        }
+      ],
+      "rating": "5.9",
+      "ratingVoteCount": 35222,
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/964318.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/964318.jpg",
+      "ratingChange": null
+    }
+  ]
+}

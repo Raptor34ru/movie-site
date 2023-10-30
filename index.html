@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form>
+        <ul>
+            <li class="title">
+                <label id="title" for="name">Название:</label>
+                <input class="input" type="text">
+            </li>
+            <li>
+                <label class="type" for="name">Тип:</label>
+                <select name="type" id="select">
+                    <option value="movie">Movie</option>
+                    <option value="series">Series</option>
+                    <option value="episode">Episode</option>
+                </select>
+            </li>
+            <button class="search">Search</button>
+        </ul>
+    </form>
+
+
+    <div class="container">
+        <div class="movies">
+        </div>
+    </div>
+
+    <div id="pagination">
+        <a href="#">«</a>
+        <a href="#">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">»</a>
+    </div>
+
+
+
+    <script src="script.js">
+
+
+    </script>
+</body>
+
+</html>
